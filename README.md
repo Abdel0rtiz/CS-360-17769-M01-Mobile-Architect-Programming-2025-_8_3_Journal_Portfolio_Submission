@@ -1,4 +1,4 @@
-# CS-360-17769-M01-Mobile-Architect-Programming-2025-C-6-Oct---Dec-
+CS-360-17769-M01-Mobile-Architect-Programming-2025-_8_3_Journal_Portfolio_Submission
 
 The application was developed to address the need for simple, secure, and persistent inventory management from a mobile device. It allows users to create an account, log in, and manage items through complete create, read, update, and delete operations, all backed by an SQLite database. In addition, the app includes SMS alerts when an item reaches a low inventory level, without compromising its core functionality if the user chooses not to grant this permission, thus ensuring flexibility and a user-centered experience.
 
